@@ -1,0 +1,13 @@
+Flat-vibrator - 1 - pin 2
+Flat-vibrator - 2 - pin 3
+Flat-vibrator - 3 - pin 4
+Flat-vibrator - 4 - pin 5
+Flat-vibrator - 5 - pin 6
+Flat-vibrator - 6 - pin 7
+
+led - 1 - pin 8
+led - 2 - pin 9
+led - 3 - pin 10
+led - 4 - pin 110
+led - 5 - pin 12
+led - 6 - pin 13
